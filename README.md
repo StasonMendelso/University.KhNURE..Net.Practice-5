@@ -72,9 +72,7 @@ some additional dependencies.
 
 ### Running the application
 
-Run the application using the [Demo](Practice5/Demo.cs) class, where you can choose the number of task for executing by
-calling another
-method.
+Run the application using the [Demo](Practice5/Demo.cs) class, where you can run the main method with all subtasks simultaneously.
 
 ## Author
 
